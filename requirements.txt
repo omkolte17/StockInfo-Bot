@@ -1,0 +1,5 @@
+telethon
+yahoo_fin
+requests
+requests_html
+pandas
