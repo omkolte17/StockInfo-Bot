@@ -31,4 +31,4 @@ Tickername is the code name of the stock. For example for SBI commands will be a
  - `/getval SBIN`
  - `/getholders SBIN`
 
-### Try the bot at [@stonks02_bot](https://t.me/stonks02_bot)
+### ~~Try the bot at [@stonks02_bot](https://t.me/stonks02_bot)~~
